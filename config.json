@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrelete",
+        "uuid": 7141017,
+        "checksum": "sczdto"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
